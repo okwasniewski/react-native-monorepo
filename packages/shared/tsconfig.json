@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "lib": ["dom", "dom.iterable", "esnext"],
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "module": "commonjs",
+      "outDir": "dist", // <- Directory of generated output
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "experimentalDecorators": true,
+      "strictPropertyInitialization": false,
+      "declaration": true,
+      "jsx": "react"
+    },
+}
